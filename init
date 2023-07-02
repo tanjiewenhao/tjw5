@@ -1,0 +1,7 @@
+echo "# tjw5" >> README.md 
+git init 
+git add README.md 
+git commit -m “第一次提交” 
+git分支 -M main 
+git 远程添加 origin https://github.com/tanjiewenhao1/tjw5.git
+ git Push - u 起源 主要
